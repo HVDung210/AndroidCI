@@ -31,7 +31,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         tools:srcCompat="@tools:sample/avatars" />
->>>>>>> c9daa11ecc564f97923cd9d1d85da013acfca99e
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
